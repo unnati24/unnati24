@@ -4,10 +4,10 @@
 
  <h5 align='center'><samp><a href="https://unnati-verma.web.app/">https://unnati-verma.web.app/</a></samp></h5>
 
-<p align='center'> <samp>Software Engineer | Frontend Enthusiast | Java Fullstack Developer</samp></p><br><br>
+<p align='center'> <samp>Software Engineer | Frontend Enthusiast</samp></p><br><br>
 
 <p align='center'><samp>
-I'm a software engineer who finds herself to be a passionate learner and piqued in developing user-friendly and responsive websites and applications, using the comprehension in RESTful APIs.
+I'm a software engineer who finds herself to be a passionate learner and piqued in developing user-friendly applications, using the experience in Affiliate and Banking domains.
 </samp></p>
 
 <p align='center'>
